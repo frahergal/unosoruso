@@ -1,7 +1,7 @@
 ---
 title: La estatua de Alyonka en Novovoronezh
 date: 2020-12-28T19:23:41+01:00
-author: admin
+author: Misha
 layout: post
 image: monumento_alyonka.jpg
 categories:
