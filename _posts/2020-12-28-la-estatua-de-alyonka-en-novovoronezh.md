@@ -19,7 +19,7 @@ En honor al 250 aniversario de la fundación de la aldea Novaya Alenovka (actual
 
 Como una imagen vale más que mil palabras, os dejo con el monumento en cuestión:<figure class="wp-block-image size-large">
 
-![Fotografía del monumento de Alyonka](unosoruso/assets/img/monumento_alyonka.jpg)
+![Fotografía del monumento de Alyonka](assets/img/monumento_alyonka.jpg)
 
 Las reacciones en internet no se hicieron esperar. Y desde el primer día comenzaron a aparecer todo tipo de memes y mofas acerca de la estatua de la pobre y desmejorada Alyonka. Desde compararla con el personaje de la película «La monja».
 
