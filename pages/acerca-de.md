@@ -12,7 +12,7 @@ permalink: /acerca-de
 
 Entre la comunidad hispanohablante, cuando uno quiere informarse y obtener datos actualizados sobre cualquier aspecto de la cultura rusa, raramente encuentra información de primeras. Es por ello que con este blog pretendo acercar un poco más la conexión entre Rusia y los hispanohablantes. Aquí vas a encontrar artículos de todo tipo que espero que te sean útiles y pases un buen momento leyéndolos.
 
-Cuando preparé mi primer viaje a Rusia en 2014, solamente el proceso de sacar el visado fue toda una odisea. Hoy en día, tras idas y venidas, considero que puedo ayudar a otros con ciertos consejos y además exponer las peculiaridades de este país. Aunque como dije anteriormente, es posible que hable también de otros temas .
+Cuando preparé mi primer viaje a Rusia en 2014, solamente el proceso de sacar el visado fue toda una odisea. Hoy en día, tras idas y venidas, considero que puedo ayudar a otros con ciertos consejos y además exponer las peculiaridades de este país. Aunque como dije anteriormente, es posible que hable también de otros temas.
 
 #### Notas finales
 
