@@ -1,35 +1,32 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: "millennial-3"
+  disqus_shortname: "unosoruso"
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ""
 
 menu:
-  - { name: "Interesting Facts", url: "facts" }
-  - { name: "Learning Resources", url: "resources" }
-  - { name: "Sample Posts", url: "sample-posts" }
-  - { name: "Documentation", url: "documentation" }
-  - { name: "About", url: "about" }
-  - { name: "Contact", url: "contact" }
+  - { name: "Webs amigas", url: "friends" }
+  - { name: "Acerca de", url: "about" }
+  - { name: "Contacto", url: "contact" }
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-  - { icon: "twitter", link: "https://twitter.com/paululele" }
-  - { icon: "facebook", link: "https://www.facebook.com/paululele" }
-  - { icon: "instagram", link: "https://instagram.com/paululele" }
-  - { icon: "envelope", link: "mailto:hello@paulle.ca" }
+  - { icon: "twitter", link: "https://twitter.com/unosoruso" }
+  - { icon: "facebook", link: "https://www.facebook.com/unosoruso" }
+  - { icon: "instagram", link: "https://instagram.com/unosoruso" }
+  - { icon: "envelope", link: "mailto:hello@unosoruso.com" }
   - { icon: "rss-square", link: "feed.xml" }
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
 pagination:
-  next_page: "Newer"
-  previous_page: "Older"
+  next_page: "Siguiente"
+  previous_page: "Atrás"
 
-sharing_button_prompt: "Feel free to share!"
+sharing_button_prompt: "¡Compartir ayuda mucho!"
 
-related_posts: "You may also enjoy..."
+related_posts: "Quizaás también te guste..."
 
-post_date_prefix: "Written on"
+post_date_prefix: "Escrito el"
