@@ -1,11 +1,9 @@
 ---
-id: 418
 title: La estatua de Alyonka en Novovoronezh
 date: 2020-12-28T19:23:41+01:00
 author: admin
 layout: post
-guid: https://www.unosoruso.com/?p=418
-permalink: /index.php/2020/12/28/la-estatua-de-alyonka-en-novovoronezh/
+image: monumento_alyonka
 categories:
   - Cultura
 tags:
@@ -14,7 +12,6 @@ tags:
   - humor
   - Novovoronezh
 ---
- 
 
 Podría haberme rebuscado algo más el título del post, pero no quería haceros ningún spoiler. La semana pasada apareció en los medios rusos una noticia muy peculiar y que se repite cada cierto tiempo en distintas partes del globo. ¿Recuerdan la estatua tributo a <a href="https://www.mundodeportivo.com/vaya-mundo/20190102/453906483630/el-curioso-reclamo-turistico-de-la-estatua-de-cristiano-en-madeira.html" target="_blank" rel="noreferrer noopener">Cristiano Ronaldo en el aeropuerto de Funchal (Madeira)</a>? Pues algo similar ha ocurrido en la ciudad de Novovoronezh.
 
