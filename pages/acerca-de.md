@@ -1,18 +1,8 @@
 ---
-id: 7
-title: Acerca de
-date: 2016-10-02T14:16:36+02:00
-author: admin
 layout: page
-guid: http://oso.journeytospace.eu/?page_id=2
-shareaholic_disable_share_buttons:
-  - "1"
-shareaholic_exclude_recommendations:
-  - "1"
-shareaholic_disable_recommendations:
-  - "1"
+title: Acerca de
+permalink: /acerca-de
 ---
-#### 
 
 #### Un Oso Ruso
 
