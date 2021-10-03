@@ -7,9 +7,10 @@ disqus:
 google-ID: ""
 
 menu:
-  - { name: "Webs amigas", url: "friends" }
-  - { name: "Acerca de", url: "about" }
-  - { name: "Contacto", url: "contact" }
+  - { name: "Acerca de", url: "acerca-de" }
+  - { name: "Webs amigas", url: "otras-webs" }
+  - { name: "Recursos y descargas", url: "recursosdescargas" }
+  - { name: "Contacto", url: "contacto" }
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -27,6 +28,6 @@ pagination:
 
 sharing_button_prompt: "¡Compartir ayuda mucho!"
 
-related_posts: "Quizaás también te guste..."
+related_posts: "Quizás también te guste..."
 
 post_date_prefix: "Escrito el"
