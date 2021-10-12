@@ -3,7 +3,7 @@ title: "El Metro de Moscú recomienda&#8230; ¡ocupar ambos lados de las escaler
 date: 2018-12-01T20:37:09+01:00
 author: Misha
 layout: post
-image: ecalera_metro.jpg
+image: escalera_metro.jpg
 categories:
   - Moscú
 tags:
@@ -12,7 +12,7 @@ tags:
   - Moscú
 ---
 
-![© Александр Неплохов](assets/img/ecalera_metro.jpg)
+![© Александр Неплохов](assets/img/escalera_metro.jpg)
 
 Para los que nos hemos criado en ciudades pequeñas y (sobre todo) sin metro, hay algo a lo que tenemos que hacer frente por las buenas o por las malas cuando visitamos una metrópoli por primera vez: hay que situarse en el lado derecho de las escaleras mecánicas del metro si no vas con prisa. De no hacerlo, te juegas el empujón o las palabras desagradables del _correcaminos_ de turno.
 
