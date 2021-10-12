@@ -26,4 +26,4 @@ Yo, personalmente, creo que es una práctica que tiene sentido. Permite al que l
 > En Londres se llegó a realizar un estudio sobre este asunto y se dedujo que la táctica de «ocupar ambos lados de la escalera», ¡puede aumentar su capacidad en casi un tercio!
 > ¡Por favor, ocupe ambos lados durante las horas punta!
 
-Ahora solo queda ponerlo en práctica. Algo que dudo que ocurra a no ser que los _pioneros_&nbsp;quieran jugarse sus dientes o escuchar las bonitas palabras de los _correcaminos_&#8230; 😬
+Ahora solo queda ponerlo en práctica. Algo que dudo que ocurra a no ser que los _pioneros_ quieran jugarse sus dientes o escuchar las bonitas palabras de los _correcaminos_ 😬
