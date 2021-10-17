@@ -1,20 +1,17 @@
 ---
-id: 133
 title: ¡SORTEO DE UN OSO RUSO!
 date: 2016-12-01T00:19:59+01:00
 author: Misha
 layout: post
-guid: http://oso.journeytospace.eu/?p=133
-permalink: /index.php/2016/12/01/sorteo-oso-ruso/
+
 categories:
   - Blog
 format: aside
 ---
+
 ### Actualización: Sorteo Finalizado &#8211; [Ya puedes ver los ganadores en la página del sorteo](https://gleam.io/rEcd2/concurso-100-subscriptores-un-oso-ruso)
 
 ¡Puedes ganar un libro con textos rusos para practicar el idioma, un calendario o una postal 3D de San Petersburgo! Tienes hasta el 10 de diciembre a las 23:59:59 (GMT+1) para participar.
-
-<!--more-->
 
 ### ¿Cómo participar?
 

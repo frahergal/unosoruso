@@ -1,11 +1,9 @@
 ---
-id: 112
-title: 'Yuri Knórozov: el investigador olvidado.'
+title: "Yuri Knórozov: el investigador olvidado."
 date: 2016-11-13T18:43:57+01:00
 author: Misha
 layout: post
-guid: http://oso.journeytospace.eu/?p=112
-permalink: /index.php/2016/11/13/yuri-knorozov-el-investigador-desconocido/
+
 image: /wp-content/uploads/2016/11/Portada-Yuri.jpg
 categories:
   - Cultura
@@ -15,13 +13,12 @@ tags:
   - Maya
   - Yuri Knorozov
 ---
+
 Hace unas semanas, asistí al «Festival del cine Mexicano en San Petersburgo». En concreto, al pase en el que se emitían un par de documentales que mostraban las relaciones entre México y Rusia. El segundo documental, llamó especialmente mi atención, pues trataba de una persona de la que no había oído hablar hasta ahora: Yuri Valentínovich Knórozov.
 
 ### La vida de Yuri Knórozov
 
 Yuri Knórozov fue un lingüista, epigrafista y etnólogo, que tuvo un papel clave a la hora de descifrar la escritura de la cultura maya. Su vida giró en torno a este gran descubrimiento. Sin embargo, la Unión Soviética siempre le puso demasiadas trabas para permitirle asistir a las conferencias internacionales a las que lo invitaban, y finalmente fue quedando en el olvido.
-
-<!--more-->
 
 Su talento se desarrolló desde su niñez: tocaba el violín de forma excelente, escribía poemas y dibujaba con una gran precisión. Y a pesar de que un principio tenía pensado estudiar medicina, por problemas de salud fue rechazado y acabó en la facultad de Historia de la Universidad Estatal de Moscú, donde se especializó en egiptología. Su curiosidad e interés por las lenguas antiguas lo llevó a toparse con el lenguaje maya, el cual no había sido aún descifrado completamente. Sin embargo, gracias al estudio de «Relación de las Cosas de Yucatán»  (~1566) escrito por Diego de Landa y a sus propias investigaciones, consiguió resolver el enigma del alfabeto maya. Sus conclusiones arrojaron que el alfabeto estaba compuesto por sílabas y no por letras independientes como se pensaba.
 

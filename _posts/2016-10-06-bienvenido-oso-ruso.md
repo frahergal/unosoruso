@@ -1,11 +1,9 @@
 ---
-id: 41
 title: ¡Bienvenido a Un Oso Ruso!
 date: 2016-10-06T21:15:29+02:00
 author: Misha
 layout: post
-guid: http://oso.journeytospace.eu/?p=41
-permalink: /index.php/2016/10/06/bienvenido-oso-ruso/
+
 shareaholic_disable_recommendations:
   - "1"
   - "1"
@@ -16,11 +14,10 @@ tags:
   - blog
   - reflexiones
 ---
+
 ¡Hola! Bienvenido a la web de Un Oso Ruso.
 
 Un Oso Ruso es una web personal sobre mis experiencias en Rusia. Aquí podréis encontrar contenido de todo tipo: vídeos, curiosidades, anécdotas, recursos para estudiar ruso, etc. Es posible que también me centre en otros temas diferentes a la cultura rusa, pero seguramente será en menor medida.
-
-<!--more-->
 
 ### Contenido del blog
 

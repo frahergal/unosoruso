@@ -1,11 +1,9 @@
 ---
-id: 236
-title: 'El Regimiento Inmortal (9 de mayo de 2016 &#8211; Día de la Victoria) | Moscú [Vídeo]'
+title: "El Regimiento Inmortal (9 de mayo de 2016 &#8211; Día de la Victoria) | Moscú [Vídeo]"
 date: 2017-05-07T19:37:24+02:00
 author: Misha
 layout: post
-guid: http://oso.journeytospace.eu/?p=236
-permalink: /index.php/2017/05/07/regimiento-inmortal-9-mayo-2016-dia-la-victoria-moscu-video/
+
 categories:
   - Moscú
 tags:
@@ -18,6 +16,7 @@ tags:
   - Rusia
 format: video
 ---
+
 Lo prometido es deuda, y hoy os traigo el segundo montaje de los tres que tengo preparados para el (pre) Día de la Victoria. En este caso se trata de la marcha «Regimiento Inmortal» por las bellas y soleadas calles de Moscú durante el 9 de mayo de 2016.
 
 El «Regimiento Inmortal» no es una tradición antigua, sino una marcha que surgió hace pocos años. En concreto, el movimiento fue oficialmente fundado en el año 2012 en la ciudad rusa de Tomsk. El motivo de esta marcha es bien lógico: mientras más años pasan, menos veteranos se ven en los desfiles del Día de la Victoria. Algunos mueren, y otros no se encuentran en condiciones de asistir debido a su estado de salud, por ello se buscó una alternativa para rendirles homenaje.

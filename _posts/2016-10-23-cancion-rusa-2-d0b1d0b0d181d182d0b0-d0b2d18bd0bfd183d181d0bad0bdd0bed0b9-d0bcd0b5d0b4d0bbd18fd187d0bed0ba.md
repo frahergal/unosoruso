@@ -1,11 +1,10 @@
 ---
-id: 102
-title: 'Canciones rusas #2: Баста &#8211; Выпускной (Медлячок)'
+title: "Canciones rusas #2: Баста &#8211; Выпускной (Медлячок)"
 date: 2016-10-23T19:45:23+02:00
 author: Misha
 layout: post
-guid: http://oso.journeytospace.eu/?p=102
-permalink: '/index.php/2016/10/23/cancion-rusa-2-%d0%b1%d0%b0%d1%81%d1%82%d0%b0-%d0%b2%d1%8b%d0%bf%d1%83%d1%81%d0%ba%d0%bd%d0%be%d0%b9-%d0%bc%d0%b5%d0%b4%d0%bb%d1%8f%d1%87%d0%be%d0%ba/'
+
+permalink: "/index.php/2016/10/23/cancion-rusa-2-%d0%b1%d0%b0%d1%81%d1%82%d0%b0-%d0%b2%d1%8b%d0%bf%d1%83%d1%81%d0%ba%d0%bd%d0%be%d0%b9-%d0%bc%d0%b5%d0%b4%d0%bb%d1%8f%d1%87%d0%be%d0%ba/"
 categories:
   - Música
 tags:
@@ -15,12 +14,10 @@ tags:
   - videoclip
 format: video
 ---
+
 Esta canción de Basta salió hace unos meses, y aún así se mantiene en el top de las canciones más escuchadas en Rusia. ¡Que la disfrutes!
 
 ### Баста &#8211; Выпускной (Медлячок)
-
-  
-<!--more-->
 
 Медлячок, чтобы ты заплакала.  
 И пусть звучат они все одинаково.  

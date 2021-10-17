@@ -1,11 +1,10 @@
 ---
-id: 123
-title: 'Canciones rusas #4: Егор Крид, Тимати &#8211; Где ты, где я'
+title: "Canciones rusas #4: Егор Крид, Тимати &#8211; Где ты, где я"
 date: 2016-11-20T21:25:19+01:00
 author: Misha
 layout: post
-guid: http://oso.journeytospace.eu/?p=123
-permalink: '/index.php/2016/11/20/cancion-rusa-la-semana-4-%d0%b5%d0%b3%d0%be%d1%80-%d0%ba%d1%80%d0%b8%d0%b4-%d1%82%d0%b8%d0%bc%d0%b0%d1%82%d0%b8-%d0%b3%d0%b4%d0%b5-%d1%82%d1%8b-%d0%b3%d0%b4%d0%b5-%d1%8f/'
+
+permalink: "/index.php/2016/11/20/cancion-rusa-la-semana-4-%d0%b5%d0%b3%d0%be%d1%80-%d0%ba%d1%80%d0%b8%d0%b4-%d1%82%d0%b8%d0%bc%d0%b0%d1%82%d0%b8-%d0%b3%d0%b4%d0%b5-%d1%82%d1%8b-%d0%b3%d0%b4%d0%b5-%d1%8f/"
 categories:
   - Música
 tags:
@@ -18,10 +17,8 @@ tags:
   - Тимати
 format: video
 ---
-### **Тимати feat. Егор Крид &#8211; Где ты, где я**
 
-  
-<!--more-->
+### **Тимати feat. Егор Крид &#8211; Где ты, где я**
 
 Я помню, как ты.  
 Мечтала о Париже и часах Картье.  
